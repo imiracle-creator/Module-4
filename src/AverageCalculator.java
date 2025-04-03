@@ -1,4 +1,4 @@
-// Isaiah Miracle 04/06/2025 Module 4 RockPaperScissors
+// Isaiah Miracle 04/06/2025 Module 4 AverageCalculator
 public class AverageCalculator {
 
     // Overloaded methods to calculate the average
